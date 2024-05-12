@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @manishcodes
+- 👋 Hi, I’m Manish. 
 - 👀 I’m interested in 3D technologies, 3D programming and creating interactive content
-- 🌱 I’m currently learning webGL, threejs and a lot more.
+- 🌱 I currently work webGL, threejs and a lot more.
 - 💞️ I build games, AR, VR and webAR
 - 📫 You can email me at manishmailbox30@gmail.com
 
